@@ -1,0 +1,13 @@
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\bin\Debug\netcoreapp3.1\challenge.exe
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\bin\Debug\netcoreapp3.1\challenge.deps.json
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\bin\Debug\netcoreapp3.1\challenge.runtimeconfig.json
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\bin\Debug\netcoreapp3.1\challenge.runtimeconfig.dev.json
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\bin\Debug\netcoreapp3.1\challenge.dll
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\bin\Debug\netcoreapp3.1\challenge.pdb
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\obj\Debug\netcoreapp3.1\challenge.csprojAssemblyReference.cache
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\obj\Debug\netcoreapp3.1\challenge.AssemblyInfoInputs.cache
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\obj\Debug\netcoreapp3.1\challenge.AssemblyInfo.cs
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\obj\Debug\netcoreapp3.1\challenge.csproj.CoreCompileInputs.cache
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\obj\Debug\netcoreapp3.1\challenge.dll
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\obj\Debug\netcoreapp3.1\challenge.pdb
+C:\source\codeworks\fall2020\week9\csharpday4\challenge\obj\Debug\netcoreapp3.1\challenge.genruntimeconfig.cache
